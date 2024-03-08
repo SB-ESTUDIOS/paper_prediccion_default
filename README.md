@@ -1,4 +1,4 @@
-# paper_prediccion_default
+# Predicción de Default en RD: un enfoque de Machine Learning para la evaluación del riesgo crediticio
 
 Los SHAP values son una herramienta poderosa para comprender cómo contribuyen las variables a la probabilidad de caer en default
 en un modelo de riesgo. Este documento proporciona una guía sobre cómo interpretar los SHAP values en el excel.
